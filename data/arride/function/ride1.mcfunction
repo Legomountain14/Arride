@@ -1,0 +1,1 @@
+ride @p mount @e[limit=1,type=#minecraft:arrows,nbt={inGround:0b},tag=!arrow2,tag=arrow1]
