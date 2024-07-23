@@ -1,9 +1,5 @@
-Support for replanting:
-* Wheat
-* Beetroots
-* Potatoes
-* Carrots
+# Arride
+Arrow + Ride = Arride. If you have a better name please leave an issue.
 
-I might get to the sniffer plants at some point, but come on. Who's *actually* farming those.
-
-If you want installation instructions, check the Minecraft Wiki tutorial for it [here](https://minecraft.wiki/w/Tutorials/Installing_a_data_pack).
+## Functionality
+Adds "Arride" enchantment which lets you ride any arrows shot from a bow with the enchantment.
